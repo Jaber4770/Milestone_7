@@ -1,22 +1,26 @@
 import { useState } from "react";
 import "./Blogs.css"
 import { useEffect } from "react";
+import Blog from "../Blog/Blog";
 
 const Blogs = () => {
 
-    const [blog, setBlog] =useState([]);
+    const [blogs, setBlogs] =useState([]);
 
     useEffect(()=>{
         fetch('../../../public/postData.json')
             .then(res => res.json())
-            .then(data => setBlog(data))
+            .then(data => setBlogs(data))
     },[])
 
 
     return (
-        <div>
+        <div className="w-2/3">
+            <h1 className="text-5xl">Blogs: {blogs.length}</h1>
             {
-                console.log(blog)
+                blogs.map(blog => <Blog 
+                    key={blog.id} 
+                    blog={blog}></Blog>)
             }
         </div>
     );
