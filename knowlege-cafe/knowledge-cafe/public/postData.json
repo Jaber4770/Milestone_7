@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "cover": "https://img.freepik.com/premium-photo/web-development-programming-code-app-development-web-design-computer-seo-3d-background_125322-458.jpg",
+        "title": "The Enchanted Forest",
+        "author": "Alice Green",
+        "author_img": "https://www.seekpng.com/png/detail/60-604032_face-businessman-png-dummy-images-for-testimonials.png",
+        "posted_date": "May 21, 2024",
+        "reading_time": 5,
+        "hashtags": ["#programming", "#webdevelopment", "#coding"]
+    },
+    {
+        "id": 2,
+        "cover": "https://img.freepik.com/premium-photo/developing-programmer-team-development-website-design-coding-technologies_18497-1049.jpg",
+        "title": "Journey to Mars",
+        "author": "Bob Smith",
+        "author_img": "https://api.brusselstimes.com/wp-content/uploads/2019/05/vddriessche-c-stamp-media.jpg",
+        "posted_date": "April 10, 2024",
+        "reading_time": 7,
+        "hashtags": ["#hacking", "#cybersecurity", "#infosec"]
+    },
+    {
+        "id": 3,
+        "cover": "https://www.limestone.edu/sites/default/files/styles/news_preview_image/public/2022-03/computer-programmer.jpg?h=2d4b268f&itok=JOcIEe9u",
+        "title": "Cooking with Passion",
+        "author": "Cathy Johnson",
+        "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV1OVg6ZgeeU6Q8Z1O7v0Ezk8EHYQfvMGNNg&s",
+        "posted_date": "March 15, 2024",
+        "reading_time": 10,
+        "hashtags": ["#coding", "#developer", "#programmerlife"]
+    },
+    {
+        "id": 4,
+        "cover": "https://media.istockphoto.com/id/1431603444/ro/fotografie/dezvoltator-de-software-la-birou.jpg?s=2048x2048&w=is&k=20&c=BwzNqCDrPWS7ss4VtiaaEDSAKfB9MslaCzGlGP5alXg=",
+        "title": "Mystery of the Old Mansion",
+        "author": "David Brown",
+        "author_img": "http://www.mhwintegration.com.au/wp-content/uploads/2015/06/dummy-author.jpeg",
+        "posted_date": "February 28, 2024",
+        "reading_time": 8,
+        "hashtags": ["#tech", "#software", "#developer"]
+    },
+    {
+        "id": 5,
+        "cover": "https://media.istockphoto.com/id/1354205065/ro/fotografie/entuziast-alb-programator-it-de-lucru-pe-desktop-computer-specialist-de-sex-masculin.jpg?s=2048x2048&w=is&k=20&c=H9YrvnxeJhLt3bWL-J6tbD-e6LXBTJFYP6rHbcXMf3s=",
+        "title": "Yoga for Beginners",
+        "author": "Emma White",
+        "author_img": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1896x1542/640x427/filters:focal(948x771:949x772):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/7481771/Eli_Preferred_Headshot.jpg",
+        "posted_date": "January 12, 2024",
+        "reading_time": 6,
+        "hashtags": ["#hacking", "#cybersecurity", "#ethicalhacking"]
+    },
+    {
+        "id": 6,
+        "cover": "https://media.istockphoto.com/id/1451456915/ro/fotografie/femeie-dezvoltator-independent-de-codificare-%C8%99i-programare-codificarea-pe-dou%C4%83-cu-ecrane.jpg?s=2048x2048&w=is&k=20&c=2jz_x-h_GW8fsyKZXUi9Thw2RsLSGDiNpvVy2fLokUo=",
+        "title": "The History of Art",
+        "author": "Frank Thomas",
+        "author_img": "https://sarahnicolas.com/wp-content/uploads/2018/08/6c15b-headshot.jpg",
+        "posted_date": "June 1, 2024",
+        "reading_time": 12,
+        "hashtags": ["#programming", "#softwaredevelopment", "#tech"]
+    },
+    {
+        "id": 7,
+        "cover": "https://img.freepik.com/premium-photo/programmers-developing-codes-their-computers_1423-3556.jpg",
+        "title": "Tech Innovations 2024",
+        "author": "Grace Lewis",
+        "author_img": "https://images.squarespace-cdn.com/content/v1/6091c3e4f5f6071721c43f77/c9e0dfab-c236-460f-a4c5-88370279c73c/Midjourney+Headshot.jpg?format=2500w",
+        "posted_date": "May 5, 2024",
+        "reading_time": 9,
+        "hashtags": ["#tech", "#innovation", "#programming"]
+    },
+    {
+        "id": 8,
+        "cover": "https://img.freepik.com/free-vector/hacker-activity-concept_23-2148540041.jpg?1&w=1380&t=st=1718198247~exp=1718198847~hmac=418be796cc8a751baddbf311e7311122c07af9158f0781d86231b8c9c252f704",
+        "title": "Exploring the Ocean Depths",
+        "author": "Henry Walker",
+        "author_img": "https://petapixel.com/assets/uploads/2019/09/3-2.jpg",
+        "posted_date": "April 22, 2024",
+        "reading_time": 11,
+        "hashtags": ["#coding", "#developer", "#tech"]
+    },
+    {
+        "id": 9,
+        "cover": "https://img.freepik.com/free-photo/top-view-unrecognizable-hacker-performing-cyberattack-night_1098-18706.jpg?w=740&t=st=1718198234~exp=1718198834~hmac=00f2954992e2902df4e88998e541af7b42c4c4da7003180b4b6ddad692050a7d",
+        "title": "Gardening Tips for Beginners",
+        "author": "Ivy Carter",
+        "author_img": "https://sarahnicolas.com/wp-content/uploads/2018/08/358b0-sarah2bnicolas.jpg",
+        "posted_date": "March 5, 2024",
+        "reading_time": 7,
+        "hashtags": ["#programming", "#coding", "#developer"]
+    },
+    {
+        "id": 10,
+        "cover": "https://img.freepik.com/premium-photo/hacking-internet-security-concept-with-glowing-digital-hacking-sign-abstract-dark-technological-background-3d-rendering_670147-1727.jpg",
+        "title": "The World of Quantum Physics",
+        "author": "Jack Davis",
+        "author_img": "https://static01.nyt.com/images/2021/02/28/books/review/Kitamura1/Kitamura1-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+        "posted_date": "February 18, 2024",
+        "reading_time": 13,
+        "hashtags": ["#hacking", "#tech", "#cybersecurity"]
+    },
+    {
+        "id": 11,
+        "cover": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?w=1380&t=st=1718198223~exp=1718198823~hmac=d835e78ca17afce5ea02473b70d4293a7bac2064ba40fb5c7c1c72a88e52480a",
+        "title": "Digital Marketing Strategies",
+        "author": "Karen Wilson",
+        "author_img": "https://scbwiprdstorage.blob.core.windows.net/scbwiprdfiles/images/rafis_picture_of_me_HnuHO88.jpg",
+        "posted_date": "January 30, 2024",
+        "reading_time": 8,
+        "hashtags": ["#programming", "#developer", "#tech"]
+    },
+    {
+        "id": 12,
+        "cover": "https://img.freepik.com/premium-psd/hacker-text-effect_23-2151216204.jpg",
+        "title": "Mindfulness and Meditation",
+        "author": "Liam Martinez",
+        "author_img": "https://www.upress.virginia.edu/static/ca5cde12b458c4fc707ac6e07a6fe892/7f19d/osteen.jpg",
+        "posted_date": "May 12, 2024",
+        "reading_time": 6,
+        "hashtags": ["#hacking", "#infosec", "#cybersecurity"]
+    },
+    {
+        "id": 13,
+        "cover": "https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?t=st=1718198165~exp=1718201765~hmac=098a9029865caf8345928d3560cf51e059c5076adebad606934bdb3736c37b6f&w=740",
+        "title": "Traveling the World on a Budget",
+        "author": "Mia Robinson",
+        "author_img": "https://content.api.news/v3/images/bin/877132ce9452671b6d688971bce01f4f",
+        "posted_date": "April 8, 2024",
+        "reading_time": 10,
+        "hashtags": ["#developer", "#coding", "#programming"]
+    },
+    {
+        "id": 14,
+        "cover": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1718198164~exp=1718201764~hmac=f3c5af4f5371c6b5f3e2f19226d686335f8b68f45cfd4870d184b52f118305a8&w=996",
+        "title": "The Future of Renewable Energy",
+        "author": "Nathan Scott",
+        "author_img": "https://thelifestorycoach.com/wp-content/uploads/2019/01/GwenHernandez_Crop.jpeg",
+        "posted_date": "March 22, 2024",
+        "reading_time": 9,
+        "hashtags": ["#tech", "#programming", "#softwaredevelopment"]
+    }
+]
