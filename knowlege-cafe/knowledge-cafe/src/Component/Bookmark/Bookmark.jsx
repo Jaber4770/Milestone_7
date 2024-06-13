@@ -9,7 +9,7 @@ const Bookmark = ({ bookmarks, readingTime }) => {
             <ul className=" p-5 bg-gray-200 rounded-lg ms-3">
                 <h4 className="font-semibold text-2xl mb-2 rounded-lg py-4 px-3">Bookmarked Blogs: {bookmarks.length}</h4>
                 {
-                    bookmarks.map(bookmark => <li key={bookmarks.id} className="font-semibold text-2xl bg-gray-50 m-2 rounded-lg py-4 px-3">{bookmark}</li>)
+                    bookmarks.map((bookmark) => <li key={bookmark.id} className="font-semibold text-2xl bg-gray-50 m-2 rounded-lg py-4 px-3">{bookmark}</li>)
                 }
             </ul>
         </div>
@@ -17,7 +17,7 @@ const Bookmark = ({ bookmarks, readingTime }) => {
 };
 
 Bookmark.propTypes ={
-    bookmarks: PropTypes.object.isRequired,
+    bookmarks: PropTypes.array.isRequired,
     readingTime: PropTypes.number.isRequired
 }
 
